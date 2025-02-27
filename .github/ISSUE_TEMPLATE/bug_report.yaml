@@ -52,7 +52,7 @@ body:
       description: "Seleccioná la versión del sistema de diseño que utilices."
       options:
         - "Obelisco v2"
-        - "Obelisco v1 (Sin soporte)"
+        - "Obelisco v1 (sin soporte)"
     validations:
       required: true
   
