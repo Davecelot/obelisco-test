@@ -1,4 +1,5 @@
-name: "🐞 ODS – Error o mejora técnica: [Nombre de tu requerimiento]"
+name: 🐞 ODS – Error o mejora técnica
+title: "🐞 ODS – Error o mejora técnica: [Nombre de tu requerimiento]"
 description: "Reportá un error o sugerí una mejora técnica en el sistema de diseño Obelisco."
 labels: ["bug", "technical improvement"]
 body:
