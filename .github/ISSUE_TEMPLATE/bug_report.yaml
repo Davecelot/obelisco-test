@@ -56,7 +56,7 @@ body:
     validations:
       required: true
   
-  - type: input
+  - type: textarea
     id: settings
     attributes:
       label: "Configuración del sistema/Tecnología en uso "
