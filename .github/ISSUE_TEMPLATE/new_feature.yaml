@@ -32,9 +32,9 @@ body:
     id: related_material
     attributes:
       label: "Material relacionado"
-      description: "Sumá links o archivos de cualquier exploración y/o alternativa de referencia."
+      description: "Sumá links o archivos de cualquier exploración y/o alternativa de referencia. Utilizá la [plantilla de contribución desde diseño](https://www.google.com/) para entender tu propuesta."
     validations:
-      required: false
+      required: true
   
   - type: textarea
     id: additional_info
